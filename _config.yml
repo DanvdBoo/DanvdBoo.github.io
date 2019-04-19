@@ -54,9 +54,7 @@ address:
   - line: danvdboo@gmail.com
 
 # Credits content
-credits:
-  -line: Theme by <a href="http://startbootstrap.com">Start Bootstrap</a>
-  -line: art by <a href="http://danvdboo.github.io">danvdboo</a>
+credits: 'Theme by <a href="http://startbootstrap.com">Start Bootstrap</a> Art by <a href="http://danvdboo.github.io">danvdboo</a>'
 
 # Build settings
 markdown: kramdown

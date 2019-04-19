@@ -55,8 +55,8 @@ address:
 
 # Credits content
 credits:
-  -line: 'Theme by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-  -line: 'art by <a href="http://danvdboo.github.io">danvdboo</a>'
+  -line: Theme by <a href="http://startbootstrap.com">Start Bootstrap</a>
+  -line: art by <a href="http://danvdboo.github.io">danvdboo</a>
 
 # Build settings
 markdown: kramdown

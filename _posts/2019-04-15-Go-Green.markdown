@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2019-04-15
+img: gogreen.png
+alt: gogreen logo
+project-date: April 2019
+client: TU Delft
+category: Java application
+description: Go Green is an app to let the user reduce his/hers co2 emissions in a playful way.
+
+---

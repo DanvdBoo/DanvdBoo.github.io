@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 1
-date: 19-04-2019
+modal-id: 3
+date: 2019-04-20
 img: construction.png
 alt: under construction
 project-date: April 2019

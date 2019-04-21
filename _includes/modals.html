@@ -27,20 +27,20 @@
                                         </li>
                                     {% else %}
                                         <li>Client:
-                                            <bold><a>{{ post.client }}</a>
-                                            <bold>
+                                            <strong><a>{{ post.client }}</a>
+                                            </strong>
                                         </li>
                                 {% endif %}
                                 {% if post.project-date %}
                                     <li>Date:
-                                        <bold><a>{{ post.project-date }}</a>
-                                        </bold>
+                                        <strong><a>{{ post.project-date }}</a>
+                                        </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
                                     <li>Service:
-                                        <bold><a>{{ post.category }}</a>
-                                        </bold>
+                                        <strong><a>{{ post.category }}</a>
+                                        </strong>
                                     </li>
                                 {% endif %}
                             </ul>

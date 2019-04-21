@@ -20,21 +20,27 @@
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
-                                    <li>Client:
-                                        <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                        </strong>
-                                    </li>
+                                    {% if post.clientlink %}
+                                        <li>Client:
+                                            <strong><a href={{ post.clientlink }}>{{ post.client }}</a>
+                                            </strong>
+                                        </li>
+                                    {% else %}
+                                        <li>Client:
+                                            <bold><a>{{ post.client }}</a>
+                                            <bold>
+                                        </li>
                                 {% endif %}
                                 {% if post.project-date %}
                                     <li>Date:
-                                        <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                        </strong>
+                                        <bold><a>{{ post.project-date }}</a>
+                                        </bold>
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
                                     <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                        </strong>
+                                        <bold><a>{{ post.category }}</a>
+                                        </bold>
                                     </li>
                                 {% endif %}
                             </ul>

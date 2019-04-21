@@ -8,6 +8,6 @@ project-date: April 2019
 client: Unknown
 clientlink:
 category: Web Development
-description: This part is currently under Development, when there are more project the will be added to these sections.
+description: This part is currently under Development, when there are more projects they will be added to these sections.
 
 ---

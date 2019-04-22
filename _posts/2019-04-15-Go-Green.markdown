@@ -8,6 +8,6 @@ project-date: April 2019
 client: TU Delft
 clientlink: http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48429
 category: Java application
-description: Go Green is an app to let the user reduce his/hers co2 emissions in a playful way.
+description: Go Green is an app to let the user reduce his/hers co2 emissions in a playful way. For more information please contact me as I can't (yet) publish it.
 
 ---
